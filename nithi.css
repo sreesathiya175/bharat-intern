@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=poppins:wght@400;500;700&display=swap');
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    color: #6db80b;
+    background-color: darkcyan;
+}
+
+header{
+    background-color: rgb(60, 255, 0);
+    color: blueviolet;
+    padding: 20px;
+    
+}
+h1{
+   margin-left: 10cm;
+}
+
+nav ul{
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 50px;
+}
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+}
+#shiv{
+    position: absolute;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: medium;
+    font-size: 25px;
+    margin-left: 1%;
+    padding-bottom: -20cm;
+    text-shadow: 2px 2px 3px;color: black;
+    text-align: center;
+
+}
+#nam{
+    position: relative;
+    margin-top: 5%;
+}
+#nam p{
+    color: rgb(6, 10, 209);
+    margin-left: 1%;
+    float: left;
+    text-align: center;
+    position: absolute;
+    font-weight: medium;
+
+}
